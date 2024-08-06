@@ -8,6 +8,6 @@ I'm Marielle Cortes, a Data & Analytics Engineer and Data Scientist from Brazil.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alquimiadosdados/)
 
 ## 👾 Tech Stack
-* **Languagues & Frameworks:** SQL, Python, Go, Spark
+* **Languages & Frameworks:** SQL, Python, Go, Spark
 * **Data:** Discovery, Scraping, Modeling, Data Pipeline (ETL), ML Models, Analytics, Visualization, Productization, Data Mesh
 * **Software:** Git & Github, Docker, REST, Clean Architecture, TDD, Microservices, Observability
