@@ -1,4 +1,4 @@
-##  Hi dear, grab a cup of ☕ and explore my world of data!
+## 👋 Hi, grab a cup of ☕ and explore my world of data!
 
 I'm Marielle Cortes, a Data & Analytics Engineer and Data Scientist from Brazil. I currently work as a Senior Data & Analytics Engineer at Mercado Libre.
 
