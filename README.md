@@ -1,6 +1,7 @@
 ## 👋 Hi, grab a cup of ☕ and explore my world of data!
 
-I'm Marielle Cortes, a Data & Analytics Engineer and Data Scientist from Brazil. I currently work as a Senior Data & Analytics Engineer at Mercado Libre.
+I'm Marielle Cortes, a Data & Analytics Engineer and Data Scientist from Brazil. 
+I currently work as a Senior Data & Analytics Engineer at Mercado Libre.
 
 ## 🔗 Connect with me
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mariellecortes)
