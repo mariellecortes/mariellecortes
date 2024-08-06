@@ -1,16 +1,13 @@
-## Hi there 👋
+##  Hi dear, grab a cup of ☕ and explore my world of data!
 
-<!--
-**mariellecortes/mariellecortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Marielle Cortes, a Data & Analytics Engineer and Data Scientist from Brazil. I currently work as a Senior Data & Analytics Engineer at Mercado Libre.
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mariellecortes)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariellecortes/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alquimiadosdados/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👾 Tech Stack
+* **Languagues & Frameworks:** SQL, Python, Go, Spark
+* **Data:** Discovery, Scraping, Modeling, Data Pipeline (ETL), ML Models, Analytics, Visualization, Productization, Data Mesh
+* **Software:** Git & Github, Docker, REST, Clean Architecture, TDD, Microservices, Observability
